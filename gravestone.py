@@ -6,7 +6,8 @@ TOKEN = os.environ['TOKEN']
 BUZZWORD = '!gravestone'
 GRAVESTONES = {'rory': '/Users/henderjm/Desktop/rory.png',
         'ois': '/Users/henderjm/Desktop/alois.png',
-        'alois': '/Users/henderjm/Desktop/alois.png'
+        'alois': '/Users/henderjm/Desktop/alois.png',
+        'les': '/Users/henderjm/Desktop/les.png',
         }
 
 client = discord.Client()
